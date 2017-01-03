@@ -1,0 +1,101 @@
+1Wednesday - 28.12.2016 -- 03:14:06 -> High
+
+1Wednesday - 28.12.2016 -- 03:14:11 -> Low
+2Wednesday - 28.12.2016 -- 03:14:16 -> High
+
+2Wednesday - 28.12.2016 -- 03:14:22 -> Low
+3Wednesday - 28.12.2016 -- 03:14:27 -> High
+
+3Wednesday - 28.12.2016 -- 03:14:32 -> Low
+4Wednesday - 28.12.2016 -- 03:14:38 -> High
+
+4Wednesday - 28.12.2016 -- 03:14:43 -> Low
+5Wednesday - 28.12.2016 -- 03:14:48 -> High
+
+5Wednesday - 28.12.2016 -- 03:14:53 -> Low
+6Wednesday - 28.12.2016 -- 03:14:59 -> High
+
+6Wednesday - 28.12.2016 -- 03:15:04 -> Low
+7Wednesday - 28.12.2016 -- 03:15:09 -> High
+
+7Wednesday - 28.12.2016 -- 03:15:15 -> Low
+8Wednesday - 28.12.2016 -- 03:15:20 -> High
+
+8Wednesday - 28.12.2016 -- 03:15:25 -> Low
+9Wednesday - 28.12.2016 -- 03:15:31 -> High
+
+9Wednesday - 28.12.2016 -- 03:15:36 -> Low
+10Wednesday - 28.12.2016 -- 03:15:41 -> High
+
+10Wednesday - 28.12.2016 -- 03:15:46 -> Low
+11Wednesday - 28.12.2016 -- 03:15:52 -> High
+
+11Wednesday - 28.12.2016 -- 03:15:57 -> Low
+12Wednesday - 28.12.2016 -- 03:16:02 -> High
+
+12Wednesday - 28.12.2016 -- 03:16:08 -> Low
+13Wednesday - 28.12.2016 -- 03:16:13 -> High
+
+13Wednesday - 28.12.2016 -- 03:16:18 -> Low
+14Wednesday - 28.12.2016 -- 03:16:24 -> High
+
+14Wednesday - 28.12.2016 -- 03:16:29 -> Low
+15Wednesday - 28.12.2016 -- 03:16:34 -> High
+
+15Wednesday - 28.12.2016 -- 03:16:39 -> Low
+16Wednesday - 28.12.2016 -- 03:16:45 -> High
+
+16Wednesday - 28.12.2016 -- 03:16:50 -> Low
+17Wednesday - 28.12.2016 -- 03:16:55 -> High
+
+17Wednesday - 28.12.2016 -- 03:17:01 -> Low
+18Wednesday - 28.12.2016 -- 03:17:06 -> High
+
+18Wednesday - 28.12.2016 -- 03:17:11 -> Low
+19Wednesday - 28.12.2016 -- 03:17:16 -> High
+
+19Wednesday - 28.12.2016 -- 03:17:22 -> Low
+20Wednesday - 28.12.2016 -- 03:17:27 -> High
+
+20Wednesday - 28.12.2016 -- 03:17:32 -> Low
+21Wednesday - 28.12.2016 -- 03:17:38 -> High
+
+21Wednesday - 28.12.2016 -- 03:17:43 -> Low
+22Wednesday - 28.12.2016 -- 03:17:48 -> High
+
+22Wednesday - 28.12.2016 -- 03:17:54 -> Low
+23Wednesday - 28.12.2016 -- 03:17:59 -> High
+
+23Wednesday - 28.12.2016 -- 03:18:04 -> Low
+24Wednesday - 28.12.2016 -- 03:18:09 -> High
+
+24Wednesday - 28.12.2016 -- 03:18:15 -> Low
+25Wednesday - 28.12.2016 -- 03:18:20 -> High
+
+25Wednesday - 28.12.2016 -- 03:18:25 -> Low
+26Wednesday - 28.12.2016 -- 03:18:31 -> High
+
+26Wednesday - 28.12.2016 -- 03:18:36 -> Low
+27Wednesday - 28.12.2016 -- 03:18:41 -> High
+
+27Wednesday - 28.12.2016 -- 03:18:47 -> Low
+28Wednesday - 28.12.2016 -- 03:18:52 -> High
+
+28Wednesday - 28.12.2016 -- 03:18:57 -> Low
+29Wednesday - 28.12.2016 -- 03:19:02 -> High
+
+29Wednesday - 28.12.2016 -- 03:19:08 -> Low
+30Wednesday - 28.12.2016 -- 03:19:13 -> High
+
+30Wednesday - 28.12.2016 -- 03:19:18 -> Low
+31Wednesday - 28.12.2016 -- 03:19:24 -> High
+
+31Wednesday - 28.12.2016 -- 03:19:29 -> Low
+32Wednesday - 28.12.2016 -- 03:19:34 -> High
+
+32Wednesday - 28.12.2016 -- 03:19:39 -> Low
+33Wednesday - 28.12.2016 -- 03:19:45 -> High
+
+33Wednesday - 28.12.2016 -- 03:19:50 -> Low
+34Wednesday - 28.12.2016 -- 03:19:55 -> High
+
