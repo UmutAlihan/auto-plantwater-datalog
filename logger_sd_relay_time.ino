@@ -1,3 +1,6 @@
+//yorum ekledim test için
+
+
 #define CH1 5 // Connect Digital Pin 8 on Arduino to CH1 on Relay Module
 #define CH2 6
 #define CH3 7 // Connect Digital Pin 7 on Arduino to CH3 on Relay Module
